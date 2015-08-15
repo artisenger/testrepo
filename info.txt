@@ -1,1 +1,2 @@
-My first git experience is awesome.
+My first git experience is awes.
+Adding something new to this file.
